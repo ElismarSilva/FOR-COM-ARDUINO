@@ -1,0 +1,2 @@
+Contador	KEYWORD1
+For		LITERAL1
